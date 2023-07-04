@@ -1,0 +1,7 @@
+This is the first version of Git...!!
+
+
+I want to change this file ..
+
+
+This are the changes to be done for the staging and modified area.
